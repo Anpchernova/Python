@@ -7,4 +7,4 @@ x = 0
 while N >= 1:
     a.append(N % 2)
     N = N // 2
-print(list(reversed(a)))
+print(*list(reversed(a)), sep='')
