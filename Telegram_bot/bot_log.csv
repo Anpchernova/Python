@@ -1,0 +1,4 @@
+2023-02-04 21:19:30,442: INFO _welcome-362 Bot: anpchernova_bot [@anpchernova_bot]
+2023-02-04 21:19:30,442: INFO start_polling-358 Start polling.
+2023-02-04 21:19:42,129: INFO start_handler-22 user_id=458762980 user_bot=False user_message='/start'
+2023-02-04 21:19:47,228: INFO start_handler-22 user_id=898116197 user_bot=False user_message='/start'
