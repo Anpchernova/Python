@@ -30,7 +30,7 @@ async def start_handler(message: types.Message):
 
 @dp.message_handler(commands=['quit'])
 async def quit_handler(message: types.Message):
-    await bot.send_message(message.from_user.id, 'Goodbye! See you...',
+    await bot.send_message(message.from_user.id, 'Goodbye! See you soon!',
                            reply_markup=types.ReplyKeyboardRemove())
 
 value = ""
