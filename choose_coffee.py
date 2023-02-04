@@ -29,4 +29,4 @@ def choose_coffee(*args):
     else:
         return "К сожалению, не можем предложить Вам напиток"
 
-choose_coffee(2,1,0)
+choose_coffee(2, 1, 1)
